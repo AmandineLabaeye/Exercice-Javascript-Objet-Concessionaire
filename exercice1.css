@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("Fond.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header {
+    color: white;
+}
+
+#Element {
+    border: black solid;
+    border-radius: 30px;
+}
+
+footer {
+    color: black;
+}
+
+button {
+    background-color: white;
+}
+
+#Bl {
+    border: black solid;
+    border-radius: 30px;
+}
+
+span {
+    font-size: 20px;
+}
+
+img {
+    border: black solid;
+    border-radius: 30px;
+}
+
