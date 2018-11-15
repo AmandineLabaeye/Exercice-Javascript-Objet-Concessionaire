@@ -34,7 +34,7 @@ document.getElementById("Portes").innerHTML = voiture.nombrePortes;
 
 document.getElementById("Vitesse").innerHTML = voiture.vitesseMaxi;
 
-document.getElementById("TitreB").innerHTML = voiture.Nom + ": La nouvelle voiture exceptionnel"
+document.getElementById("TitreB").innerHTML = voiture.Nom + ": La nouvelle voiture exceptionnelle";
 
 document.getElementById("Element").style.display = "none";
 
